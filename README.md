@@ -70,7 +70,7 @@ Some Screanshots of RUH-tainment
  - You must download the mamp application to run the website on your localhost
  - Open netbeans
  - Download the folders
- - Start the map application
+ - Start the mamp application
  - Click on the run tab of (HomePage.php) file on netbeans
  - RUH-tainment website will start running in a few moments, just wait..
  
